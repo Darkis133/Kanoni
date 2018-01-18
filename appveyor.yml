@@ -21,4 +21,5 @@ test_scripts:
 
   # Don't actually build.
   build:
-  - off
+  -
+  off
